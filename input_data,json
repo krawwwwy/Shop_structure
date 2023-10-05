@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "description": "High-performance laptop",
+            "price": 799.99,
+            "stock_quantity": 50
+        },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "description": "Latest smartphone model",
+            "price": 399.99,
+            "stock_quantity": 110,
+            "discount_percentage": 10
+        }
+    ],
+    "customers": [
+        {
+            "customer_id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "customer_id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com"
+        }
+    ]
+}
