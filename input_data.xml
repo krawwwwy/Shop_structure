@@ -1,0 +1,26 @@
+<data>
+    <products>
+        <product id="1">
+            <name>Laptop</name>
+            <description>High-performance laptop</description>
+            <price>799.99</price>
+            <stock_quantity>50</stock_quantity>
+            <discount_percentage>0</discount_percentage>
+        </product>
+        <product id="2">
+            <name>Smartphone</name>
+            <description>Latest smartphone model</description>
+            <price>399.99</price>
+            <stock_quantity>100</stock_quantity>
+            <discount_percentage>10</discount_percentage>
+        </product>
+    </products>
+    <customers>
+        <customer>
+            <customer_id>1</customer_id>
+            <name>John Doe</name>
+            <email>john.doe@example.com</email>
+        </customer>
+    </customers>
+</data>
+
