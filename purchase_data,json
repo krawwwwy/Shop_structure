@@ -1,0 +1,17 @@
+{
+    "products": [
+        {
+            "name": "Laptop",
+            "price": 799.99
+        },
+        {
+            "name": "Smartphone",
+            "price": 359.991
+        }
+    ],
+    "customer": {
+        "name": "Karcev Alexei",
+        "email": "lol@mail.ru"
+    },
+    "total": 1159.981
+}
