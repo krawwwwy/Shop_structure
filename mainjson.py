@@ -18,12 +18,12 @@ class Product:
 
 class DiscountedProduct(Product):
     def __init__(self, product_id, name, description, price, stock_quantity, discount_percentage):
-        # Вызываем конструктор базового класса Product
+
         super().__init__(product_id, name, description, price, stock_quantity)
         self.discount_percentage = discount_percentage
         self.preprice = self.price
         self.price = self.price * (100 - discount_percentage) / 100
-    # Переопределяем метод для отображения информации о продукте с учетом скидки
+
     def display_info(self):
         print(f"Product ID: {self.product_id}")
         print(f"Name: {self.name}")
