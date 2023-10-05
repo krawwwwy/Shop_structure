@@ -19,13 +19,8 @@
     "customers": [
         {
             "customer_id": 1,
-            "name": "John Doe",
-            "email": "john.doe@example.com"
-        },
-        {
-            "customer_id": 2,
-            "name": "Jane Smith",
-            "email": "jane.smith@example.com"
+            "name": "Alexei Karcev",
+            "email": "lol@mail.ru"
         }
     ]
 }
