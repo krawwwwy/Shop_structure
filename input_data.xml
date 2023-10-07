@@ -15,12 +15,11 @@
             <discount_percentage>10</discount_percentage>
         </product>
     </products>
-    <customers>
-        <customer>
-            <customer_id>1</customer_id>
-            <name>Karcev Alexei</name>
-            <email>lol@mail.ru</email>
-        </customer>
-    </customers>
+    <customer>
+        <customer_id>1</customer_id>
+        <name>Karcev Alexei</name>
+        <email>lol@mail.ru</email>
+    </customer>
 </data>
+
 
