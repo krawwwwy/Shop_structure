@@ -16,10 +16,10 @@
             "discount_percentage": 10
         }
     ],
-    "customers": [
+    "customer": [
         {
             "customer_id": 1,
-            "name": "Alexei Karcev",
+            "name": "Karcev Alexei",
             "email": "lol@mail.ru"
         }
     ]
